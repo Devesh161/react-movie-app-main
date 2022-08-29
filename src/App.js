@@ -4,7 +4,8 @@ import styled from "styled-components";
 import MovieComponent from "./components/MovieComponent";
 import MovieInfoComponent from "./components/MovieInfoComponent";
 
-export const API_KEY = "a9118a3a";
+export const API_KEY = "536ba70c
+";
 
 const Container = styled.div`
   display: flex;
